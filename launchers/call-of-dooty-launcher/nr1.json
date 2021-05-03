@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "call-of-dooty-launcher",
+    "description": "Life's too short for **** software",
+    "displayName": "Call of Dooty",
+    "rootNerdletId": "call-of-dooty-nerdlet"
+}
